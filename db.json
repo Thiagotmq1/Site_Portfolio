@@ -1,0 +1,63 @@
+{
+    "albuns": [
+      {
+        "id": 1,
+        "titulo": "Album 1",
+        "descricao": "Descrição do Album 1",
+        "urlImagem": "https://via.placeholder.com/150",
+        "urlConteudo": "https://example.com/album1"
+      },
+      {
+        "id": 2,
+        "titulo": "Album 2",
+        "descricao": "Descrição do Album 2",
+        "urlImagem": "https://via.placeholder.com/150",
+        "urlConteudo": "https://example.com/album2"
+      }
+    ],
+    "fotos": [
+      {
+        "id": 1,
+        "albumId": 1,
+        "urlFoto": "https://via.placeholder.com/150",
+        "legenda": "Foto 1"
+      },
+      {
+        "id": 2,
+        "albumId": 1,
+        "urlFoto": "https://via.placeholder.com/150",
+        "legenda": "Foto 2"
+      }
+    ],
+    "destaques": [
+      {
+        "id": 1,
+        "titulo": "Destaque 1",
+        "descricao": "Descrição do Destaque 1",
+        "urlImagem": "https://via.placeholder.com/150",
+        "urlConteudo": "https://example.com/destaque1"
+      },
+      {
+        "id": 2,
+        "titulo": "Destaque 2",
+        "descricao": "Descrição do Destaque 2",
+        "urlImagem": "https://via.placeholder.com/150",
+        "urlConteudo": "https://example.com/destaque2"
+      }
+    ],
+    "colegas": [
+      {
+        "id": 1,
+        "urlFoto": "https://via.placeholder.com/150",
+        "nome": "Colega 1",
+        "urlPerfil": "https://github.com/usuario1"
+      },
+      {
+        "id": 2,
+        "urlFoto": "https://via.placeholder.com/150",
+        "nome": "Colega 2",
+        "urlPerfil": "https://github.com/usuario2"
+      }
+    ]
+  }
+  
